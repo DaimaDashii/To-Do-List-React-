@@ -16,5 +16,5 @@ Follow these instructions to set up the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/IndraDeveloperTampan/To-Do-List-React
+git clone https://github.com/IndraDeveloperTampan/To-Do-List-React-
 cd todo-app
